@@ -1,0 +1,4 @@
+proxies:
+  - "http://1234567aa:1234567aa@198.23.239.134:6540"                      # Replace with actual proxy
+  - "http://1234567aa:1234567aa@207.244.217.165:6712"                      # Replace with actual proxy
+  # Add more proxies as needed
